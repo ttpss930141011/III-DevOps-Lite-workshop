@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">
-<img width="250" height="100" class="site-logo" src="https://www.iiidevops.org/wp-content/uploads/2021/01/IIIDevOps-logo-01-01.png" alt="III DevOps">
+<img width="250" height="100" class="site-logo" src="https://www.iiidevops.org/wp-content/uploads/2021/01/IIIDevOps-logo-01-01.png" alt="III DevOps" style="background-color: black;">
 <br>
 III-DevOps-Lite-workshop
 </h1>
